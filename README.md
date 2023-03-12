@@ -1,16 +1,19 @@
 # 一个基于大卷站的app
 ## 声明：本app基于www.dajuanzhan.cf搭建，网站非本人搭建，服务器等均属于本人的同学，这个app未获取任何服务器数据！
-#### 猪脚独家资料是不可能的了，因为涉及到他人隐私……不过rickroll倒是可以的！  
 附：本人第一次实战，一些地方没有做好，请多多谅解！
 
-## 最新版本：大卷站0.6  
-## 备用链接：https://wwji.lanzouf.com/iGWmI0pcw4uj  密码:42o1
+## 最新版本：大卷站pre-0.6(2)  
+## 链接：https://wwji.lanzouf.com/iILoZ0pxlzsd  密码:5exb  
 注意：由于大卷站服务器原因，部分页面加载较慢，敬请谅解！  
 
 ## 预览：  <img width="274" alt="image" src="https://user-images.githubusercontent.com/118042225/222968189-dcb57559-55ac-4069-92d0-bd750ad21379.png">
 
 
 ## 大卷Log:  
+### 2023/3/3：大卷站pre-0.6(2):  
+-完善部分功能  
+-优化软件体积  
+
 ### 2023/3/3：大卷站pre-0.6：
 -加入中考日历（待完善）  
 -加入大卷歌背景音乐（待完善）  
