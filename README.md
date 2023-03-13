@@ -2,14 +2,15 @@
 ## 声明：本app基于www.dajuanzhan.cf搭建，网站非本人搭建，服务器等均属于本人的同学，这个app未获取任何服务器数据！
 附：本人第一次实战，一些地方没有做好，请多多谅解！
 
-## 最新版本：大卷站pre-0.6(2)  
-## 链接：https://wwji.lanzouf.com/iILoZ0pxlzsd  密码:5exb  
+## 最新版本：大卷站pre-0.6(3)  
+### ~~大卷站pre-0.6(2)优化差，bug多，加载慢，其中一部分已被解决！~~ 
+## 链接https://wwji.lanzouf.com/iC3lV0q0g61a 密码:a1di  
 注意：由于大卷站服务器原因，部分页面加载较慢，敬请谅解！  
 
-## 预览：  <img width="274" alt="image" src="https://user-images.githubusercontent.com/118042225/222968189-dcb57559-55ac-4069-92d0-bd750ad21379.png">
-
-
 ## 大卷Log:  
+### 2023/3/13：大卷站pre-0.6(3):  
+-优化软件  
+
 ### 2023/3/12：大卷站pre-0.6(2):  
 -完善部分功能  
 -优化软件体积  
